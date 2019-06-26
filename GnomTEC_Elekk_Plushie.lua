@@ -1,6 +1,6 @@
 -- **********************************************************************
 -- GnomTEC Elekk Plushie
--- Version: 8.1.5.1
+-- Version: 8.2.0.1
 -- Author: Peter Jack
 -- URL: http://www.gnomtec.de/
 -- **********************************************************************
@@ -28,8 +28,8 @@ local L = LibStub("AceLocale-3.0"):GetLocale("GnomTEC_Elekk_Plushie")
 local addonInfo = {
 	["Name"] = "GnomTEC Elekk Plushie",
 	["Description"] = L["L_DESCRIPTION"],	
-	["Version"] = "8.1.5.1",
-	["Date"] = "2019-06-23",
+	["Version"] = "8.2.0.1",
+	["Date"] = "2019-06-26",
 	["Author"] = "Peter Jack",
 	["Email"] = "info@gnomtec.de",
 	["Website"] = "http://www.gnomtec.de/",

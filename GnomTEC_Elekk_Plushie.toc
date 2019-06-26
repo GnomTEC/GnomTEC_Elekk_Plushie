@@ -1,9 +1,9 @@
-## Interface: 80100
+## Interface: 80200
 ## Title: GnomTEC_Elekk_Plushie
 ## Notes: Addon to use a Elekk Plushie as information board.
 ## Notes-deDE: Addon um ein Plüschelekk als Informationstafel zu nutzen.
 ## Author: Peter Jack
-## Version: 8.1.5.1
+## Version: 8.2.0.1
 ## Dependencies: GnomTEC
 ## SavedVariables: GnomTEC_Elekk_PlushieDB
 
